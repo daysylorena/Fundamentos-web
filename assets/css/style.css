@@ -13,6 +13,10 @@
     align-items: center;
 }
 
+*{
+    background-color: rgb(117, 196, 153);
+}
+
 #menu li {
     display: inline;
     padding: 15px;
